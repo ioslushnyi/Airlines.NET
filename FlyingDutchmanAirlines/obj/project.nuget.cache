@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ZNOtNQDpxRmb60wC5AyNcgGhIk2ha1zJiYQDnHXCDuPrJz6Pmsii4vF7tlC3qwQtAspdsiorSGA9W3OGwPKvw==",
+  "dgSpecHash": "c8Sm1HB4g6eXjUSrWaoHhX+68OPNvXDB6J5/F/iGXoZTHvLNYFvycGN9vh3dofuZtnocXVoi8d9oz4bOOEeSvg==",
   "success": true,
-  "projectFilePath": "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj",
+  "projectFilePath": "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slush\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\slush\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

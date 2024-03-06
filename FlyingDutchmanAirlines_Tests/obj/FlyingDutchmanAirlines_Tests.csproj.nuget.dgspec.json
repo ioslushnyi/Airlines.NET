@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines_Tests\\FlyingDutchmanAirlines_Tests.csproj": {}
+    "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines_Tests\\FlyingDutchmanAirlines_Tests.csproj": {}
   },
   "projects": {
-    "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj": {
+    "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj",
+        "projectUniqueName": "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj",
         "projectName": "FlyingDutchmanAirlines",
-        "projectPath": "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj",
+        "projectPath": "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj",
         "packagesPath": "C:\\Users\\slush\\.nuget\\packages\\",
-        "outputPath": "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\obj\\",
+        "outputPath": "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines_Tests\\FlyingDutchmanAirlines_Tests.csproj": {
+    "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines_Tests\\FlyingDutchmanAirlines_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines_Tests\\FlyingDutchmanAirlines_Tests.csproj",
+        "projectUniqueName": "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines_Tests\\FlyingDutchmanAirlines_Tests.csproj",
         "projectName": "FlyingDutchmanAirlines_Tests",
-        "projectPath": "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines_Tests\\FlyingDutchmanAirlines_Tests.csproj",
+        "projectPath": "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines_Tests\\FlyingDutchmanAirlines_Tests.csproj",
         "packagesPath": "C:\\Users\\slush\\.nuget\\packages\\",
-        "outputPath": "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines_Tests\\obj\\",
+        "outputPath": "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines_Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -117,8 +117,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj": {
-                "projectPath": "C:\\prog\\repos\\CSharp.NET-Practice\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj"
+              "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj": {
+                "projectPath": "C:\\prog\\repos\\FlyingDutchmanAirlinesNextGen\\FlyingDutchmanAirlines\\FlyingDutchmanAirlines.csproj"
               }
             }
           }
